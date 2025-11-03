@@ -14,7 +14,7 @@ By Original image by <a href="https://en.wikipedia.org/wiki/User:John_Reid" clas
 The deck has 106 playable cards.
 | Card Name | File Name | Count |
 |-----------|-----------|-------|
-| Accident | File-MB-crash.svg |  3 |
+| Accident | MB-crash.svg |  3 |
 | Out of Gas | MB-empty.svg |  3 |
 | Flat Tire | MB-flat.svg |  3 |
 | Speed Limit | MB-limit.svg |  4 |
