@@ -4,13 +4,15 @@ From [WikiPedia](https://en.wikipedia.org/wiki/Mille_Bornes#List_of_cards)
 
 ## Card Images
 
-Attribution
+### Attribution
+By Original image by w:User:John Reid, vectorized by User:LordRM., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia
 ```txt
-By Original image by w:User:John Reid, vectorized by User:LordRM. - http://en.wikipedia.org/wiki/Image:MB-emergency.png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4276227
+By Original image by w:User:John Reid, vectorized by User:LordRM., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia
 ```
 ```html
-By Original image by <a href="https://en.wikipedia.org/wiki/User:John_Reid" class="extiw" title="w:User:John Reid">w:User:John Reid</a>, vectorized by <a href="//commons.wikimedia.org/wiki/User:LordRM" title="User:LordRM">User:LordRM</a>. - <a class="external free" href="https://en.wikipedia.org/wiki/Image:MB-crash.png">http://en.wikipedia.org/wiki/Image:MB-crash.png</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4276142">Link</a>
+By Original image by <a href="https://en.wikipedia.org/wiki/User:John_Reid" class="extiw" title="w:User:John Reid">w:User:John Reid</a>, vectorized by <a href="//commons.wikimedia.org/wiki/User:LordRM" title="User:LordRM">User:LordRM</a>. - <a class="external free" href="https://en.wikipedia.org/wiki/Mille_Bornes#List_of_cards">https://en.wikipedia.org/wiki/Mille_Bornes#List_of_cards</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia">Link</a>
 ```
+### Table of Cards
 The deck has 106 playable cards.
 | Card Name | File Name | Image | Count |
 |-----------|-----------|-------|-------|
